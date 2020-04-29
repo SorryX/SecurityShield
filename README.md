@@ -11,7 +11,7 @@ Security.Class1.WebhookURL = "Webhook token";
 Security.Class1.Run();
 ```
 
-### Features
+## Features
 - Security Check
 - Data Sender (Sending Data to a webhook)
    - IP, Computer name
