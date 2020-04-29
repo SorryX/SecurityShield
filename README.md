@@ -1,6 +1,7 @@
 # SecurityShield
 **SecurityShield** is a [Shield] witch protects you from crack tools, and help you close down all Fortnite Processes. 
-**NOTE THIS DLL IS PROTECTED AND WILL NOT RELEASE AS OPEN SOURCE BECAUSE IF IT'S RELEASED THEN IT'S EASY TO BEING BYPASS**
+
+**Note this Dll is protected and would not release as an open source whenever it's time to**
 
 ## Setup
 
